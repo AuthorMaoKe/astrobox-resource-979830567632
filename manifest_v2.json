@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "979830567632",
+    "restype": "watchface",
+    "name": "星轨",
+    "description": "星轨表盘，把浩瀚太阳系浓缩于方寸腕间。深邃星空为底，日月与地球沿着轨道缓缓流转，将宇宙浪漫戴在手上。表盘保留完整智能数据面板，心率、步数、电量、睡眠、日期时间一目了然，兼顾科幻氛围感与实用信息。一边是星辰运转的诗意，一边是日常健康数据的陪伴，抬手即是星河，在忙碌日常里，随时邂逅宇宙的温柔。\n官方交流群876535695",
+    "preview": [
+      "media/QQ20261020-000921.png"
+    ],
+    "icon": "media/表盘介绍与海报生成 (1)-08.png",
+    "cover": "media/表盘介绍与海报生成 (1)-07.png",
+    "author": [
+      {
+        "name": "bandbbs_73445",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方群",
+      "url": "https://qm.qq.com/q/lHCW3WJkgU",
+      "icon": "chats-circle"
+    },
+    {
+      "title": "爱发电支持我",
+      "url": "https://afdian.com/a/L204387260",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/星轨.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/星轨.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979830567632/main/wallpaper/wallpaper.json"
+    }
+  }
+}
